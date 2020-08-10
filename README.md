@@ -2,7 +2,7 @@
 
 - Python 3.6 (For linux users can be most recent python version)
 
-### How to use it
+## How to use it
 There's 3 variables to modify:
 
 **BIND_KEY** - The keyboard button name that going to enable/disable the auto clicker
@@ -12,17 +12,17 @@ There's 3 variables to modify:
 **CLICK_PER_SECONDS** - How many times the button need to be pressed in a second.
 
 
-#### Windows users
+### Windows users
 Execute run_application.bat
 
-#### Linux users
+### Linux users
 ```
 cd /your/cloned/folder/directory
 chmod +x run_application.sh
 ./run_application
 ```
 
-##### Python script
+## Python script
 ```python
 import logging
 import sys
