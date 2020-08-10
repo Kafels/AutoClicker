@@ -13,10 +13,13 @@ There's 3 variables to modify:
 
 
 ### Windows users
-Execute run_application.bat
+```powershell
+cd /your/cloned/folder/directory
+run_application.bat
+```
 
 ### Linux users
-```
+```bash
 cd /your/cloned/folder/directory
 chmod +x run_application.sh
 ./run_application
