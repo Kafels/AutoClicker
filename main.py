@@ -7,8 +7,9 @@ from pykeyboard import PyKeyboardEvent
 from pymouse import PyMouse
 
 BIND_KEY = 'F10'
+CLICK_PER_SECONDS = 5
+
 BIND_MOUSE_BUTTON = 2
-CLICK_PER_SECONDS = 1
 
 
 class Monitor(PyKeyboardEvent):
