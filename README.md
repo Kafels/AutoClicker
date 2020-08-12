@@ -1,4 +1,4 @@
-# Pre requisites
+# Prerequisites
 
 - Python 3.6 (For linux users can be most recent python version)
 
